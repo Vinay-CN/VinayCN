@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinaygowda72844572
+- 👋 Hi, I’m @vinay
 - 👀 I’m interested in Ethical hacking
 - 🌱 I’m currently pursuing BCA
 - 💞️ I’m looking to train myself in internship
