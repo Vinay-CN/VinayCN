@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @vinay
-- 👀 I’m interested in Ethical hacking
-- 🌱 I’m  pursuing BCA
+- 👀 Passionate Coder 
+- 🌱 Graduate in Computer Science 
 - 🥷 Coding ninja
 
-- 💞️ I’m looking to train myself in internship
 - 📫 How to reach me vinaycngowda@gmail.com
 
 <!---
